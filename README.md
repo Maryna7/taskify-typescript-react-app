@@ -1,9 +1,11 @@
 # taskify
 
 ## Description of the Project:
+
 This project is based on such programming languages as React and Typescript.
 This is a project with which you can create a list of tasks. In which, under the task input field, there are two columns with Active Tasks and Completed Tasks. Each created task appears in the Active Tasks column. The task can be edited, deleted and dragged into the Completed Tasks column, which is done using react-beautiful-dnd.
 
+![Screenshot of the project](./public/Screenshot%20of%20the%20project.png)
 
 ## Purpose of the Project:
 
